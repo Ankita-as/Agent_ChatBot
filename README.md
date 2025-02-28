@@ -11,13 +11,6 @@ This project is a chatbot that helps users find answers to "how-to" questions re
   - **Cross-CDP Comparison**: The chatbot can compare functionalities between the platforms.
   - **Advanced "How-to" Questions**: The chatbot can answer more complex questions related to integrations and configurations.
 
-## Data Sources
-The following official documentation is used to retrieve information:
-- **Segment Documentation**: [Segment Docs](https://segment.com/docs/?ref=nav)
-- **mParticle Documentation**: [mParticle Docs](https://docs.mparticle.com/)
-- **Lytics Documentation**: [Lytics Docs](https://docs.lytics.com/)
-- **Zeotap Documentation**: [Zeotap Docs](https://docs.zeotap.com/home/en-us/)
-
 ## Technologies Used
 - **Python**: Backend programming language.
 - **Flask**: Web framework to create the chatbot interface.
@@ -26,8 +19,6 @@ The following official documentation is used to retrieve information:
 
 ## Installation Instructions
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/kaif-g/chatbot_project.git
    cd chatbot_project
 2. Install the required dependencies:
    pip install -r requirements.txt
